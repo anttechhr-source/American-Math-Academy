@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "name": "American Math Academy",
+    "shortName": "AMA",
+    "tagline": "Toán Tư duy Hoa Kỳ • Ocean Park 2 & 3",
+    "phone": "09xx xxx xxx",
+    "zalo": "https://zalo.me/09xxxxxxxx",
+    "facebook": "https://facebook.com/",
+    "email": "hello@americanmath.vn"
+  },
+  "campuses": [
+    {
+      "name": "Ocean Park 2",
+      "address": "Văn Giang, Hưng Yên",
+      "map": "https://www.google.com/maps/search/?api=1&query=Ocean+Park+2+V%C4%83n+Giang+H%C6%B0ng+Y%C3%AAn"
+    },
+    {
+      "name": "Ocean Park 3",
+      "address": "Văn Giang, Hưng Yên",
+      "map": "https://www.google.com/maps/search/?api=1&query=Ocean+Park+3+V%C4%83n+Giang+H%C6%B0ng+Y%C3%AAn"
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Math Explorer",
+      "age": "4–6 tuổi",
+      "price": "Liên hệ",
+      "desc": "Làm quen số, pattern, hình học và tư duy qua trò chơi."
+    },
+    {
+      "name": "Logic Builder",
+      "age": "6–9 tuổi",
+      "price": "Liên hệ",
+      "desc": "Xây nền tảng toán học, logic và kỹ năng giải quyết vấn đề."
+    },
+    {
+      "name": "Problem Solver",
+      "age": "9–12 tuổi",
+      "price": "Liên hệ",
+      "desc": "Toán nhiều bước, chiến lược giải và tư duy phản biện."
+    },
+    {
+      "name": "Advanced Math",
+      "age": "12–15+ tuổi",
+      "price": "Liên hệ",
+      "desc": "Đại số, hình học, lập luận và bài toán thử thách."
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Teacher Anna",
+      "role": "Academic Director",
+      "bio": "Phụ trách định hướng chương trình, chất lượng học thuật và phát triển phương pháp học tư duy."
+    },
+    {
+      "name": "Teacher David",
+      "role": "Math Instructor",
+      "bio": "Tập trung vào problem solving, mathematical reasoning và hoạt động nhóm."
+    },
+    {
+      "name": "Teacher Emily",
+      "role": "Math Instructor",
+      "bio": "Thiết kế hoạt động học trực quan, giúp học viên tự tin trình bày cách nghĩ."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Phụ huynh bé M.",
+      "class": "Học viên 8 tuổi",
+      "quote": "Bé chủ động giải thích cách làm thay vì chỉ chờ cô cho đáp án. Đây là điều gia đình rất thích."
+    },
+    {
+      "name": "Phụ huynh bé K.",
+      "class": "Học viên 10 tuổi",
+      "quote": "Các bài toán được trình bày theo vấn đề nên bé hào hứng hơn và bắt đầu biết thử nhiều cách giải."
+    },
+    {
+      "name": "Phụ huynh bé A.",
+      "class": "Học viên 6 tuổi",
+      "quote": "Không khí lớp học nhẹ nhàng nhưng có thử thách. Bé mong chờ đến buổi học tiếp theo."
+    }
+  ],
+  "blog": [
+    {
+      "category": "Toán tư duy",
+      "title": "5 dấu hiệu con đang phát triển tư duy toán học",
+      "date": "2026-09-20",
+      "excerpt": "Không phải cứ làm nhanh mới là học Toán tốt. Hãy quan sát cách con đặt câu hỏi và giải thích."
+    },
+    {
+      "category": "Phụ huynh",
+      "title": "Problem Solving là gì và vì sao trẻ cần kỹ năng này?",
+      "date": "2026-09-15",
+      "excerpt": "Từ một bài toán, trẻ có thể học cách phân tích, thử nghiệm, kiểm chứng và trình bày lập luận."
+    },
+    {
+      "category": "Hoạt động",
+      "title": "Một buổi học Toán tư duy tại Ocean Park",
+      "date": "2026-09-10",
+      "excerpt": "Khám phá cách một lớp học được tổ chức để học viên trao đổi và trình bày ý tưởng."
+    }
+  ]
+}
